@@ -53,21 +53,21 @@ all-in-one.conf
                      |  OSX,Win,Linux  |
                      +-----------------+
 
-[インストール対象コンポーネント]
-- MySQL
-- ApacheQPID
-- Nagios
-- OpenStack
-  Ceilometer
-  Cinder
-  Glance
-  Heat
-  Keystone
-  Neutron
-  Nova
-  Swift
-  Tempest
-  OSClient
+ [インストール対象コンポーネント]
+   MySQL
+   ApacheQPID
+   Nagios
+   OpenStack
+       Ceilometer
+       Cinder
+       Glance
+       Heat
+       Keystone
+       Neutron
+       Nova
+       Swift
+       Tempest
+       OSClient
  </pre>
  
 2) 最小構成All-In-One環境
@@ -100,16 +100,16 @@ minimal.conf
                      |  OSX,Win,Linux  |
                      +-----------------+
 
-[インストール対象コンポーネント]
-- MySQL
-- ApacheQPID
-- OpenStack
-  Cinder
-  Glance
-  Keystone
-  Neutron
-  Nova
-  OSClient
+ [インストール対象コンポーネント]
+  MySQL
+  ApacheQPID
+  OpenStack
+      Cinder
+      Glance
+      Keystone
+      Neutron
+      Nova
+      OSClient
  </pre>
 
 3) コントローラ1台 + Computeノード複数台
