@@ -55,7 +55,8 @@ all-in-one.conf
 
  [インストール対象コンポーネント]
    MySQL
-   ApacheQPID
+   MongoDB
+   RabbitMQ or ApacheQPID ※OpenStackのリリースバージョンによりどちらかがインストールされる
    Nagios
    OpenStack
        Ceilometer
