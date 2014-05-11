@@ -21,7 +21,7 @@ VirtualBox環境で以下の構成のネットワークと仮想マシンを用�
    eth1: 172.16.0.1/24  , Adapter2(vboxnet1)
    eth2: DHCP           , Adapter3(NAT)
  </pre>
-3. インストール手順 [http://www.slideshare.net/h-saito/openstack-quickstart-havana]
+3. インストール手順 [http://www.slideshare.net/h-saito/openstack-quickstart-icehouse]
 
 a) All-In-One環境
 =========================
